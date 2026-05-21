@@ -1,1 +1,6 @@
-woshizamira
+#zamira
+# 浮動小数点数の誤差
+
+## ❌ 間違えた内容
+```python
+sum([0.1, 0.2, 0.3])
